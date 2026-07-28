@@ -20,10 +20,12 @@ A modern Flutter-based Tip Calculator that provides real-time calculations for b
 
 ## 📂 Project Structure
 
+```text
 lib/
 ├── main.dart
 ├── home_screen.dart
 └── element_widget.dart
+```
 
 ## 🚀 Getting Started
 
