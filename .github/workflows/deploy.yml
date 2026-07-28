@@ -1,4 +1,4 @@
-name: Deploy Flutter Web
+name: Tip calculator V3
 
 on:
   push:
