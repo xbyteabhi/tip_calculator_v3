@@ -35,7 +35,7 @@ class ElementWidget extends StatelessWidget {
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
-          SizedBox(width: 240, child: Text(name)),
+          SizedBox(width: 100, child: Text(name)),
 
           GestureDetector(
             onTap: onTapMinus,
