@@ -2,6 +2,8 @@
 
 A modern Flutter-based Tip Calculator that provides real-time calculations for bills, tips, total amount, and bill splitting. The app is designed to be flexible, allowing users to modify any value while automatically recalculating the remaining fields.
 
+The app is currently live at **[xbyteabhi.github.io/tip_calculator_v3/](https://xbyteabhi.github.io/tip_calculator_v3/)**. In near future, i might add a link to Apk file, to use as an App, but for now use is on the web, also you download the web version as an App. Go give it a try.
+
 ## ✨ Features
 
 * Calculate tip using percentage or custom tip amount
@@ -59,7 +61,7 @@ flutter run
 
 | Home Screen                   |
 | ----------------------------- |
-| ![Home](screenshots/home.png) |
+| ![Home](screenshots/homepage.jpg) |
 
 ## 🎯 Future Improvements
 
